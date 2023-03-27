@@ -17,10 +17,10 @@ https://www.loofy.com.tr/contact/
 
 ## 📸 Screenshot
 
-Main:
+**Main:**
 ![image](https://user-images.githubusercontent.com/118697424/228092039-3fa5d80c-002b-4641-9980-b485ee10b299.png)
 
-Contact:
+**Contact:**
 ![image](https://user-images.githubusercontent.com/118697424/228092179-7afcf622-ce72-4049-8ae6-7867b2b90fb9.png)
 
 
