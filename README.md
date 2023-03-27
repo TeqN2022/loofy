@@ -15,6 +15,10 @@ https://www.loofy.com.tr/
 
 https://www.loofy.com.tr/contact/
 
+## 📸 Screenshot
+
+https://cdn.discordapp.com/attachments/1075180794471010315/1090060502073344072/image.png
+
 ## 📄 License
 
 MIT © [TeqN2022](./LICENSE)
